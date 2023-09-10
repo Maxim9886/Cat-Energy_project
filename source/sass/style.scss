@@ -1,0 +1,47 @@
+/* Глобальные Файлы */
+@import "./fonts";
+@import "./global/variables";
+@import "./blocks/page-body";
+@import "./blocks/visually-hidden";
+@import "./blocks/container-wrapper";
+@import "./global/line";
+
+/* Файлы для Header */
+@import "./blocks/main-header";
+@import "./main-header-wrapper";
+@import "./blocks/main-nav";
+@import "./blocks/main-nav-list";
+@import "./blocks/main-container-header";
+@import "./main-container-header__back";
+
+/* Файлы Главной страницы */
+@import "./blocks/advantages";
+@import "./blocks/advantages-list";
+@import "./blocks/program";
+@import "./program-list";
+@import "./blocks/example";
+@import "./blocks/range";
+
+/* Файлы Страницы каталога */
+@import "./blocks/catalog";
+@import "./blocks/catalog-list";
+@import "./blocks/optional";
+@import "./blocks/optional-list";
+@import "./main-promo";
+
+/* Файлы Страницы с формой */
+@import "./blocks/form";
+@import "./blocks/form-profile";
+@import "./blocks/form-program";
+@import "./blocks/form-program-list";
+@import "./form-contacts";
+@import "./blocks/form-comment";
+@import "./blocks/form-optionally";
+@import "./form-optionally-list";
+
+/* Файлы для Footer */
+@import "./blocks/main-footer";
+@import "./blocks/footer-location";
+@import "./blocks/footer-contacts";
+@import "./blocks/social-list";
+@import "./blocks/copyright";
